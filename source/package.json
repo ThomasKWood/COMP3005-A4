@@ -1,0 +1,15 @@
+{
+    "name": "COMP3005A4",
+    "version": "1.0.0",
+    "description": "COMP3005 Assignment 4",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "pg-promise": "^10.4.3"
+    },
+    "author": "Thomas Wood",
+    "license": "MIT"
+}
