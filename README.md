@@ -5,8 +5,8 @@
 **Author**: Thomas Wood
 
 ## Demonstration Video
-[![Video_Title](https://img.youtube.com/vi/ID/hqdefault.jpg)](https://www.youtube.com/watch?v=ID "COMP3005-A4 Demo Video")\
-https://www.youtube.com/watch?v=ID
+[![Video_Title](https://img.youtube.com/vi/HVvpraxkooM/hqdefault.jpg)](https://www.youtube.com/watch?v=HVvpraxkooM "COMP3005-A4 Demo Video")\
+https://youtu.be/HVvpraxkooM
 
 ## Getting Started
 
