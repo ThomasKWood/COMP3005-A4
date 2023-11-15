@@ -78,7 +78,7 @@ async function updateStudentEmail(student_id, new_email) {
 async function deleteStudent(student_id) {
     let result = false;
     let query = 'DELETE FROM students WHERE student_id = $1';
-    await db.many(query, [student_id]).then(() => { // many is used because it will trow an error if it deletes in less than 1 second
+    await db.one(query, [student_id]).then(() => { // many is used because it will trow an error if it delete more than 1 record
         console.log('Student deleted successfully');
         result = true;
         return true;
